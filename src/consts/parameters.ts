@@ -15,7 +15,7 @@ export const chainConst = "base";
 export const clientIdConst = import.meta.env.VITE_TEMPLATE_CLIENT_ID || "";
 
 // Configure the primary color for buttons and other UI elements
-export const primaryColorConst = "blue";
+export const primaryColorConst = "red";
 
 // Choose between "light" and "dark" mode
 export const themeConst = "dark";
